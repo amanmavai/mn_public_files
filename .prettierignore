@@ -1,0 +1,10 @@
+node_modules
+coverage
+dist
+build
+.build
+.next
+snippets.json
+tsconfig.json
+tsconfig-explained.json
+# etc...
